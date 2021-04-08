@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Banarant
 
-- 💻 I'm working as a Back end Semiconductor Machine Programmer
+- 💻 I'm working as a semiconductor machine software developer
 
 - 👀 I’m interested in web based application or something similar 
 
